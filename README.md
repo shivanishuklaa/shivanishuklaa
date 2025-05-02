@@ -1,4 +1,4 @@
-## 💫 About Me:
+## 💫 Hi:
 Welcome to my GitHub profile! I'm a passionate full stack data scientist with a keen interest in exploring new technologies and frameworks.
 <!--
 **shivanishuklaa/shivanishuklaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
