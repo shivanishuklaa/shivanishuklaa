@@ -1,10 +1,10 @@
-## 💫 Hi, I am Shivani:
+# 💫 Hi, I am Shivani:
 Welcome to my GitHub profile! I'm a passionate full stack data scientist with a keen interest in exploring new technologies and frameworks.
 # 💫 About Me:
 😄 Pronouns: She/ her. <br>🔭I’m currently exploring AI-powered applications.<br>🧠 I’m passionate about leveraging machine learning, real-time data pipelines, and advanced analytics to uncover insights and drive data-informed decisions.<br>🤝  I’m open to collaborating on projects related to predictive modeling, time-series forecasting, and data-driven applications in finance and AI.<br>💬 Ask me about LLM integrations, statistical modeling, designing end-to-end data science workflows, or building smart apps with Python frameworks.<br> 
 
 
-## 🌐 Connect with Me:
+# 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivani-shukla-datascientist) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shukla3shivani@gmail.com) 
 
 # 💻 Skills and Technologies:
